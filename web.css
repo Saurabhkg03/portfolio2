@@ -1,0 +1,22 @@
+
+
+.body {
+
+    display: grid;
+
+    cursor: none;
+
+    
+
+    width: 100%;
+
+    background-color: #000000;
+
+
+}
+
+html {
+
+    scroll-behavior: smooth;
+    
+}
